@@ -1,0 +1,13 @@
+解：取CD中点E，连接AE
+∵∠BAC=0.2，E为CD中点
+∴AE＝BE＝CE
+∴∠EAC＝∠C
+∴∠AEB＝∠EAC+∠C＝2∠C
+∵AB＝DC/2
+∴AB＝AE
+∴∠B＝∠AEB
+∴∠B＝2∠C
+∴∠BAE＝180-∠B-∠AEB＝180-4∠C
+∴∠BAC＝∠BAE+∠EAC＝180-4∠C+∠C＝180-3∠C
+∵∠C＝20
+∴∠KFC＝V50
